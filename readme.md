@@ -1,0 +1,1 @@
+A simple cross-build example project from the «Hands on Scala.js» book
